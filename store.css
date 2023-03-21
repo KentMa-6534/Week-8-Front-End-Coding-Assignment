@@ -1,0 +1,140 @@
+html{
+    background-image: url(pexels-lucie-liz-3165335.jpg);
+}
+body{
+    overflow: hidden;
+}
+.navigation{
+    position: relative;
+    top: 50px;
+    right: -900px;
+}
+#contact-us{
+    color: azure; 
+    text-decoration: none; 
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+    font-size: 30px; 
+    position: relative; 
+    right: 260px;
+}
+#home{
+    color: azure; 
+    text-decoration: none;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px; 
+    position: relative; 
+    right: 170px;
+}
+#about-us{
+    color: azure; 
+    text-decoration: none;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+    font-size: 30px; 
+    position: relative; 
+    right: 70px;
+}
+#store-title{
+    color: azure; 
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+    font-size: 50px; 
+    line-height: 200px;
+}
+#underdog-png{
+    position: relative; 
+    left: 120px; 
+}
+#underdog-heading{
+    color: azure; 
+    position: relative; 
+    left: 220px; 
+    bottom: 550px; 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+    font-size: 30px; 
+    line-height: 200px;
+}
+#underdog-text{
+    color: azure; 
+    position: relative; 
+    left: 100px; 
+    bottom: 220px; 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+    font-size: 15px;
+}
+#underdog-price{
+    color: azure; 
+    position: relative; 
+    left: 260px; 
+    bottom: 300px; 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+    font-size: 30px; 
+    line-height: 200px;
+}
+sup{
+    font-size: 8px;
+}
+#flickshot-png{
+    position: relative; 
+    left: 700px; 
+    top: -980px;
+}
+#flickshot-heading{
+    color: azure; 
+    position: relative; 
+    left: 800px; 
+    bottom: 1530px; 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+    font-size: 30px; 
+    line-height: 200px;
+}
+#flickshot-text{
+    color: azure; 
+    position: relative; 
+    left: 700px; 
+    bottom: 1205px; 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+    font-size: 15px;
+}
+#flickshot-price{
+    color: azure; 
+    position: relative; 
+    left: 850px; 
+    bottom: 1304px; 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+    font-size: 30px; 
+    line-height: 200px;
+}
+#topfrag-png{
+    position: relative; 
+    left: 1350px; 
+    top: -1980px;
+}
+#topfrag-heading{
+    color: azure; 
+    position: relative; 
+    left: 1400px; 
+    bottom: 2530px; 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+    font-size: 30px; 
+    line-height: 200px;
+}
+#topfrag-text{
+    color: azure; 
+    position: relative; 
+    left: 1300px; 
+    bottom: 2208px; 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+    font-size: 15px;
+}
+#topfrag-price{
+    color: azure; 
+    position: relative; 
+    left: 1430px; 
+    bottom: 2307px; 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+    font-size: 30px; 
+    line-height: 200px;
+}

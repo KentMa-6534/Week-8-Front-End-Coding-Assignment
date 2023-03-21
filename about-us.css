@@ -1,0 +1,81 @@
+html{
+    background-image: url(pexels-lucie-liz-3165335.jpg);
+}
+body{
+    overflow: hidden;
+}
+.navigation{
+    position: relative;
+    top: 500px; 
+    right: -900px;
+}
+#contact-us{
+    color: azure; 
+    text-decoration: none; 
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+    font-size: 30px; 
+    position: relative; 
+    right: 240px; 
+    top: -450px;
+}
+#store{
+    color: azure; 
+    text-decoration: none;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+    font-size: 30px; 
+    position: relative; 
+    right: 150px; 
+    top: -450px;
+}
+#home{
+    color: azure; 
+    text-decoration: none;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+    font-size: 30px; 
+    position: relative; 
+    right: 60px; 
+    top: -450px;
+}
+#about-us-h1{
+    color: azure; 
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+    font-size: 75px; 
+    line-height: 200px;
+}
+#about-us-h2{
+    color: azure; 
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+    font-size: 30px; 
+    position:relative; 
+    top: -20px
+}
+pre{
+    color: azure; 
+    text-align: center; 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+    font-size: 20px;
+}
+#company-values{
+    color: azure; 
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+    font-size: 30px; 
+    position:relative; 
+    top: -20px;
+}
+ol{
+    color: azure; 
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+    font-size: 30px; 
+    position:relative; 
+    top: -20px
+}
+li{
+    list-style: inside;
+}

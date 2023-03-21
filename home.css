@@ -1,0 +1,53 @@
+html{
+    background-image: url(pexels-lucie-liz-3165335.jpg);
+}
+body{
+    overflow: hidden;
+}
+.navigation{
+    position: relative;
+    top: 500px;
+    right: -900px;
+}
+#contact-us{
+    color: azure;
+    text-decoration: none;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 40px;
+    position: relative;
+    right: 280px;
+}
+#store{
+    color: azure;
+    text-decoration: none;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 40px;
+    position: relative;
+    right: 220px;
+}
+#about-us{
+    color: azure;
+    text-decoration: none;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 40px;
+    position: relative;
+    right: 160px;
+}
+h1{
+    color: azure;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 75px;
+    line-height: 500px;
+}
+h2{
+    color: azure;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    position: relative;
+    top: -200px;
+}
